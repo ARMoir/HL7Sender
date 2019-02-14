@@ -85,7 +85,7 @@ namespace HL7Sender
                 //Console.ReadLine();
                 }
 
-                while (1 != 2);
+                while (true);
             }
 
             catch (Exception ex)
